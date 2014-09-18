@@ -27,12 +27,12 @@
 		<partner name="MAINLAND CHINA" img="samsung.jpg" href="javascript:void(0)" />
 		<partner name="BARBEQUE NATION" img="samsung.jpg" href="javascript:void(0)" />
 	</category>
-	<category name="Departmental Stores" file="xml/data/Fuel.xml" icon="fuel" citysearch="1">
+	<category name="Departmental Stores" file="xml/data/DepartmentalStores" icon="fuel" citysearch="1">
 		<partner name="HPCL" img="hp.jpg" href="javascript:void(0)" />
 		<partner name="IOCL" img="hp.jpg" href="javascript:void(0)" />
 		<partner name="BPCL" img="hp.jpg" href="javascript:void(0)" />
 	</category>
-	<category name="Electronics" file="xml/data/Fuel.xml" icon="entertainment" citysearch="1">
+	<category name="Electronics" file="xml/data/Electronics" icon="entertainment" citysearch="1">
 		<partner name="HPCL" img="hp.jpg" href="javascript:void(0)" />
 		<partner name="IOCL" img="hp.jpg" href="javascript:void(0)" />
 		<partner name="BPCL" img="hp.jpg" href="javascript:void(0)" />
