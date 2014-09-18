@@ -11,7 +11,7 @@
     <link rel="shortcut icon" href="http://digiqom.com/assets/ico/favicon.ico">
 
     <title>American Express Monthly Blockbuster Offer - Movies</title>
-
+	<link rel="stylesheet" href="css/jquery-ui.css">
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.css" rel="stylesheet">
 
@@ -101,7 +101,7 @@
 <body class="inside">
     
     
-
+<div id="opaque"></div>
     <div class="container ">
     <div class="basetop">Use  your Cards well this Diwali.This Diwali American Express® has dealt you the winning hand.
 Start your festive shopping with the all new ‘Teen-Do-Paanch’ offer and let the good times roll. 
@@ -155,6 +155,12 @@ at retail outlets.*</li><li>EARN 5 EXTRA Membership Rewards®Points per Rs. 100 
             </div>
         </div>
     </div>
+	<div id="citydialog" title="Select Your City">
+	 <form id="city_form" style="display:none">
+		<input type="button" id="city_btn" value="Select"  />
+	 </form>
+	 <div class="clearfix"></div>
+</div>
     <footer>
         <div class="container foot">
 
@@ -180,6 +186,7 @@ at retail outlets.*</li><li>EARN 5 EXTRA Membership Rewards®Points per Rs. 100 
     </footer>
 
     <script type="text/javascript" src="js/lib/jquery-1.11.0.min.js"></script>
+	<script type="text/javascript" src="js/lib/jquery-ui-1.10.4.js"></script>
     <script type="text/javascript" src="js/lib/jquery.cookie.js"></script>
     <script type="text/javascript" src="js/lib/main.js"></script>
     <script type="text/javascript" src="js/search.js"></script>

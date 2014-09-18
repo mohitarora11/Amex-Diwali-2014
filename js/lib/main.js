@@ -13,7 +13,7 @@
 				featuredPartners: '.featured-partners',
 				cityXml: 'xml/city.xml',
 				categoryXml: 'xml/category.xml',
-				total: 10,
+				total: 9,
 				defaultCity: 'Delhi',
 				ignoreCity: 'Please Visit',
 				page: 'search',
@@ -90,8 +90,8 @@
 			},
 			func: {
 				init: function() {
-					//var cityName = $.cookie('ct');
-					var cityName ='bengaluru';
+					var cityName = $.cookie('ct');
+					//var cityName ='bengaluru';
 					if ('home' == y.opt.page) {
 						y.func.createCityTopFilter();
 						if (void 0 != cityName && '' != cityName) {
@@ -121,6 +121,31 @@
 						y.func.createFavouriteButton();
 					}
 					else {
+						if (void 0 != cityName && '' != cityName && null != cityName) {
+							y.obj.$filterCity.val(cityName).change();
+							//y.obj.$filterCategory.val(cityName).change();
+							
+						}
+						else{
+							y.obj.$cityDialog.dialog({
+										modal:true,
+										open:function(){
+											y.func.createCityFilterDialog();
+											y.obj.$opaque.show();
+											y.obj.$cityDialogForm.show();
+											$('button.ui-dialog-titlebar-close').remove();
+										}
+								});
+								y.obj.$cityDialogBtn.click(function() {
+									cityName = y.obj.$cityDialogSelect.val();
+									if ( '' != cityName) {
+										y.obj.$cityDialog.dialog('close');
+										y.obj.$opaque.hide();
+										y.obj.$filterCity.val(cityName).change();
+										//y.obj.$cityTopFilter.val(cityName).change();
+									}
+								});
+						}
 						y.vr.selectedCity = y.func.getParam('city') || cityName;
 						y.vr.selectedCategory = y.func.getParam('category');
 						y.vr.searchText = y.func.getParam('search');
@@ -163,6 +188,7 @@
 						if ('' != y.vr.fav) {
 							y.func.showFav();
 						}
+						y.func.cityChange();
 					}
 				},
 				loadXml: function(xmlFile) {
@@ -207,6 +233,12 @@
 						}
 						y.dt.fp[category[i].getAttribute('name')] = pArr;
 					}
+				},
+				cityChange:function(){
+				$(document).on('change','.filter-city .a-filter',function(){
+					alert('hiii');
+					y.obj.$filterCategory.val(y.vr.selectedCategory).trigger('change');
+				});
 				},
 				createFp: function (category) {
 					var $ol, $li, $a, i , ln, fp;
@@ -341,8 +373,8 @@
 				},
 				filterData: function(action) {
 					if ('' == $.trim(y.vr.selectedCategory)) {
-						alert('Please Choose Category');
-						return false;
+						/*alert('Please Choose Category');
+						return false;*/
 					}
 					else {
 						var $data = y.func.dataListing(action);
@@ -405,6 +437,12 @@
 								found = true;
 								dDiv[1].prependTo($div);
 							}
+							/*if((i)%3==0 && (i != 0)){
+							$('<li/>').addClass('blank').prependTo($div);
+							}*/
+							if (y.opt.counter % 3 ==0 && y.opt.counter < y.opt.total && dDiv[0]){
+								$('<li/>').addClass('blank').prependTo($div);
+							}
 							if (y.opt.counter >= y.opt.total) {
 								break;
 							}
@@ -419,6 +457,12 @@
 								found = true;
 								dDiv[1].appendTo($div);
 								
+							}
+							/*if((i+1)%3==0 ){
+							$('<li/>').addClass('blank').appendTo($div);
+							}*/
+							if (y.opt.counter % 3 ==0 && (y.opt.counter < y.opt.total)&& dDiv[0]){
+								$('<li/>').addClass('blank').appendTo($div);
 							}
 							if (y.opt.counter >= y.opt.total) {
 								i++;
