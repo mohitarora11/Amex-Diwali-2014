@@ -179,9 +179,10 @@
 					return xhttp.responseXML;
 				},
 				loadData: function (category,city) {
-					category.file = category.file +'-'+city+'.xml';
+					//category.file = category.file +'-'+city+'.xml';
 					if (void 0 == category.data) {
-						category.data = y.func.loadXml(category.file);
+						//category.data = y.func.loadXml(category.file);
+						category.data = y.func.loadXml(category.file +'-'+city+'.xml');
 					}
 				},
 				loadCategory: function () {
@@ -377,14 +378,14 @@
 						ln = row.length;
 					}
 					if ('' != y.vr.selectedCity || '' != filterText) {
-						if ('' != y.vr.selectedCity && '0' != category.citysearch) {
+						/*if ('' != y.vr.selectedCity && '0' != category.citysearch) {
 							if ('2' == category.citysearch) {
 								regText += '(?=.*' + y.vr.selectedCity + '|.*' + y.opt.ignoreCity + ')';
 							}
 							else {
 								regText += '(?=.*' + y.vr.selectedCity + ')';
 							}
-						}
+						}*/
 						if ('' != filterText) {
 							regText += '(?=.*' + filterText + ')';
 						}
@@ -568,6 +569,7 @@
 					y.obj.$cityTopDisplay.text($me.children('option:selected').text());
 					$.cookie('ct', $me.val());
 					y.obj.$homeCity.length > 0 && y.obj.$homeCity.val($me.val());
+					y.func.filterData();
 				},
 				filterCategory: function(me) {
 					var $me = $(me), $a = $('a[name="' + $me.val() + '"]');
