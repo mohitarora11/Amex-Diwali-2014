@@ -369,7 +369,7 @@
 				},
 				dataListing: function(action) {
 					var category = y.dt.category[y.vr.selectedCategoryIndex], row = [] , i, ln = 0,
-					$div = $('<ul/>'), $dt, regX = null, regText = '', dDiv,
+					$div = $('<ul/>').addClass('row'), $dt, regX = null, regText = '', dDiv,
 					filterText = $.trim(y.obj.$filterText.val()), end, found = false;
 					y.func.loadData(category,y.vr.selectedCity);
 					if (void 0 != category.data) {
@@ -417,11 +417,13 @@
 							if (dDiv[0]) {
 								found = true;
 								dDiv[1].appendTo($div);
+								
 							}
 							if (y.opt.counter >= y.opt.total) {
 								i++;
 								break;
 							}
+							
 						}
 						y.opt.end = i;
 					}
@@ -450,7 +452,7 @@
 				dataDiv: function(row, regX, action) {
 					var data = row.getElementsByTagName('Data'), found = false,
 					dataLn = data.length, key, $span, $dt, sText = '', html, childNodes;
-					$dt = $('<li/>').addClass('dt');
+					$dt = $('<li/>').addClass('dt col-sm-4');
 					for (key in y.opt.cell) {
 						if (dataLn > key) {
 							childNodes = data[key].childNodes
