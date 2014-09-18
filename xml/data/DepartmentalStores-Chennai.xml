@@ -1,0 +1,891 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ 
+ <Worksheet ss:Name="Departmental Stores">
+  <Table ss:ExpandedColumnCount="2" ss:ExpandedRowCount="216" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+  
+   <Row>
+    <Cell><Data>SPENCER'S</Data></Cell>
+    <Cell><Data>OLD NO. 56 NEW NO. 163, VELACHERY MAIN ROAD,VELACHERY, 600042</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>OOTY VEGETABLES AND FRUITS</Data></Cell>
+    <Cell><Data>C-39 12TH MAIN ROAD ANNANAGAR, 600001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MAX RETAIL</Data></Cell>
+    <Cell><Data>UNIT NO.125,FIRST FLOOR,183,NSK SALAI, VADAPALINI, 600026</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>NUTS N SPICES</Data></Cell>
+    <Cell><Data>FORUM VIJAYA MALL, UNIT NUMBER LG-015,NUMBER 183,N S K SALAI VADA PALINI, 600026</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>WITCO INDIA PVT LTD</Data></Cell>
+    <Cell><Data>FORUM VIJAYA MALL, UNIT NO. 205 SECOND FLOOR 183 N.S.K.,SALAI VADAPALANI, 600026</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>WITCO INDIA PVT LTD</Data></Cell>
+    <Cell><Data>1 &amp; 2 FLOOR D.NO. 17, 15 STREET TANSI NAGAR, 600042</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>WITCO INDIA PVT LTD</Data></Cell>
+    <Cell><Data>PHONIX MARKET CITY, UNIT NO F-16 FIRST FLOOR,OLD NO. 66 NEW NO 142 VELACHERY, 600042</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>Pantaloons</Data></Cell>
+    <Cell><Data>PHONIX MARKET CITY, NO. 142 VELACHERY,VELACHERY,MAIN ROAD, 600042</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MARKS &amp; SPENCER</Data></Cell>
+    <Cell><Data>UNIT NO. UG 19 &amp; 20, PHONIX MARKET CITY MALL,VELACHERY ROAD, 600042</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BROWN TREE</Data></Cell>
+    <Cell><Data>NO.23/12, VENKATNARAYANA RD, T. NAGAR, 600017</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MAX - MYLAPORE</Data></Cell>
+    <Cell><Data>NO. 179, LUZ CHURCH ROAD, LUZ CORNER,MYLAPORE, 600004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MAX - USMAN NAGAR</Data></Cell>
+    <Cell><Data>NO.152, NORTH USMAN ROAD,T.NAGAR, 600017</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>GREEN SUPER MART</Data></Cell>
+    <Cell><Data>NO.1/1, A.G. FLOOR,K.K. TOWER, K.K. PONNURANGAM SALAI MOOGAMBIGAI,RAMAPURAM, 600089</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>SOCH</Data></Cell>
+    <Cell><Data>PHEONIX MARKET CITY, SHOP#,S-02,2ND FLOOR#142,VELACHERY,MAIN ROAD VELACHERI, 600042</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BROWN TREE</Data></Cell>
+    <Cell><Data>NO 142 VELACHERY RD PHEONIX, MARKET CITY GRD FLR,VELACHERY, 600042</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MAX RETAIL</Data></Cell>
+    <Cell><Data>MAX RETAIL DIV DOOR NO 39, FIRST MAIN RD JAWAHAR NAGAR,PERAMBUR, 600082</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MARKS &amp; SPENCERS</Data></Cell>
+    <Cell><Data>FORUM VIJYA MALL, NO.183-188 T.S NOS 5/1,5/3,5/4 &amp; 5/5,ARCOT ROAD, VADAPALANI, 600026</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>LIFESTYLE INTERNATIONAL (P) LTD</Data></Cell>
+    <Cell><Data>LIFESTYLE 183, N.S.K SALAI, ARCOT ROAD, FORUM VIJYA MALL,VADAPALINI, GR FLOOR, 600026</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MEGAMART</Data></Cell>
+    <Cell><Data>OLD NO. 276 &amp; 277 NEW NO. 497&amp;498, POONAMALLE HIGH ROAD,ARUMBAKKAM, 600106</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>SHOBA HYPERMARKET</Data></Cell>
+    <Cell><Data>4/1393 JJ NAGAR, MUGAPPAIR,WEST CHENNAI, 600037</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>STAR MARK</Data></Cell>
+    <Cell><Data>SHOP NO.-248 2ND FLOOR, EXPRESS AVENUE MALL NO. 49,50L,WHITES ROAD, 600014</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>AUCHAN</Data></Cell>
+    <Cell><Data>LOWER GROUND FLOOR, PRESTIGE FORUM,VIJAYA MALL ARCOT ROAD,VADAPALANI, 800026</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>RELIANCE LIFESTYLE HOLDINGS LTD-4736</Data></Cell>
+    <Cell><Data>S-001 &amp; S-101,49, 50, WHITES ROAD,ROYAAETTAH, 600014</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CITY SUPER MARKET</Data></Cell>
+    <Cell><Data>NO:210/4, C.V NAIDU SALAI,THIRUVALLUR, 602001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MORE</Data></Cell>
+    <Cell><Data>142 ACCENTURE COMPLEX, NEW PERUNGALATHUR, 600063</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>SOCH</Data></Cell>
+    <Cell><Data>NO-109 1ST FLOOR, FORUM VIJAYA MALL NO-183-188,ARCOT ROAD, VADAPALANI, 600026</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MORE</Data></Cell>
+    <Cell><Data>NO.144 PONNAMALLEE HIGH RD, IYYAPPANTHANGAL, 600054</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MORE</Data></Cell>
+    <Cell><Data>C.S.33/6 PAVENDAR SALAI NHI, MARAIMALAI NAGAR, 603209</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BROWN TREE</Data></Cell>
+    <Cell><Data>OLD DOOR NO.17, SRINIVASA AVENUE, ROAD R.A PURAM, 600028</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>RELIANCE TRENDS</Data></Cell>
+    <Cell><Data>F32  PHENOIX MARKET CITY MALL, OLD DOOR NO66 NEW DOOR NO 142,VELACHERRY ROAD, 600042</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>NUTS N SPICES</Data></Cell>
+    <Cell><Data>NO. 407/7A GST ROAD, CHROMEPET, 600044</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>SOCH</Data></Cell>
+    <Cell><Data>AMPA SKYWALKUNIT NO.230, 2ND FLR AMPA CENTRE ONE NELSON,MANIKAM RD AMINJIKARAI, 600029</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>SOCH</Data></Cell>
+    <Cell><Data>EXPRESS AVENUE SHOP NO.5255, 2ND FLR# 4950L,WHITES ROAD ROYAPETTAH, 600014</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>SOCH</Data></Cell>
+    <Cell><Data>NO.18 KASI ARCADE NO. 116, PONDY BAZAAR,T.NAGAR, 600017</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CONNEXIONS</Data></Cell>
+    <Cell><Data>NO 48 ARCOT ROAD, SALIGRAMAM, 600093</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>ODYSSEY</Data></Cell>
+    <Cell><Data>NEW NO 89 OLD NO 24 CANAL BANK ROAD, K B NAGAR ADYAR, 600020</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>ODYSSEY</Data></Cell>
+    <Cell><Data>NO 45 &amp; 47, 1ST MAIN ROAD GANDHI NAGAR, ADYAR, 600020</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>ODYSSEY</Data></Cell>
+    <Cell><Data>SHIVANI 40, EAST COAST ROAD, THIRUVANMIYUR, 600041</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>ODYSSEY</Data></Cell>
+    <Cell><Data>THE RESIDENCY TOWERS, N BOAG ROAD, SIR THYAGARAYA ROAD, 600017</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MAX RETAIL</Data></Cell>
+    <Cell><Data>CHENNAI CITI CENTRE, 2ND FLOOR, NO 10 &amp; 11,DR RADHAKRISHNAN SALAI, MYLAPORE, 600004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>HOMESTOP</Data></Cell>
+    <Cell><Data>DOOR NO 18 1ST FLOOR PHOENIXMALL, MARKET CITY NO 142 VELACHERY,MAIN ROAD, 600042</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>NUTS N SPICES</Data></Cell>
+    <Cell><Data>NEW NO. 154 OLD NO. 317, ARCOT ROAD,KODAMBAKKAM, 600024</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CONNEXIONS</Data></Cell>
+    <Cell><Data>UNIT 3 BLOCK B THE CANOPY MAHINDRA, WORLD CITY BEFORE CHENGALPETTU,GST TOLL GATE NEW CHENNAI, 603002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CONNEXIONS</Data></Cell>
+    <Cell><Data>137 III &amp; IV FLOOR, BYEPASS ROAD,VELACHERY, 600042</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CONNEXIONS</Data></Cell>
+    <Cell><Data>NO 37, 11TH AVENUE,ASHOK NAGAR, 600083</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CONNEXIONS</Data></Cell>
+    <Cell><Data>337 THIRUVALLUR ROAD, PANNER NAGAR,MOGAPPAIR EAST, 600037</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CONNEXIONS</Data></Cell>
+    <Cell><Data>NO 111 L B ROAD, ADYAR, 600043</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CONNEXIONS</Data></Cell>
+    <Cell><Data>INFOSYS LTD CAMPUS MAHINDRA INDSTL, PARK SPECIAL ECNO. ZONE MAHINDRA CITY,PARANUR VILLAGE CHENGALPET DIST, 603002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CONNEXIONS</Data></Cell>
+    <Cell><Data>INFOSYS LTD CAMPUS NO 138, OLD MAHABALIPURAM ROAD,SHOLINGANALLUR, 600119</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CONNEXIONS</Data></Cell>
+    <Cell><Data>W-9 III MAIN ROAD, ANNA NAGAR, 600040</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MAX RETAIL</Data></Cell>
+    <Cell><Data>4/363 OLD MAHABALIPURAM ROAD, KANDHANCHAVADI PERUNGUDI, 600096</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BROWN TREE RETAIL PVT LTD-BESANT NAGAR</Data></Cell>
+    <Cell><Data>OLD NO. E 147 A/NEW NO. 5, 2ND AVENUE, BESANT NAGAR,CHENNAI, 600005</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BROWN TREE RETAIL PVT LTD - NAVALUR</Data></Cell>
+    <Cell><Data>NO 1/398 RAJU GANDHI SALAI, OMR MALL ROAD NAVALUR, 603103</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>VIJAY SUPER MARKET</Data></Cell>
+    <Cell><Data>620/51 EMELEM COMPLEX, MAHALINGAPURAM MAIN ROAD,NUNGAMBAKKAM, 600034</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>TAMILNADU SUPER MARKET</Data></Cell>
+    <Cell><Data>NO 4 1ST CORSS STREET, VIJAYA NAGAR,VELACHERY, 600042</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>WESTSIDE</Data></Cell>
+    <Cell><Data>EXPRESS ESTATE NO 2, EXPRESS AVENUE MALL,CLUB ROAD,ANNA SALAI, 600002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>GUESS EXPRESS- CHENNAI</Data></Cell>
+    <Cell><Data>EXPRESS AVENUE, SHOP NO 21 EXPRESS AVENUE,50L WHITE ROAD ROYAPETTAH, 600014</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>Pantaloons</Data></Cell>
+    <Cell><Data>262 CHANDRA MALL, ARCOT RD,VIRUGAMBAKKAM, 600092</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BIG BAZAAR</Data></Cell>
+    <Cell><Data>SPECTRUM MALL, PAPER MILL ROAD,PERAMBUR,FVRLHO.BANKING@FUTUREGROUP.IN, 600011</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CHHOTABHAI RETAILING</Data></Cell>
+    <Cell><Data>4/750, FIRST FLOOR, MAIN ROAD, MOGAPPAIR WEST, 600037</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MORE</Data></Cell>
+    <Cell><Data>NO. 10/1, VADA AGARAM ROAD, BEHIND HDFC ATM, NELSON MANICKAM ROAD,MEHTA NAGAR, 600029</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MORE</Data></Cell>
+    <Cell><Data>NO. 44/1, PUNNIAMMAN KOIL STREET, KOTTURPURAM, 600085</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MORE</Data></Cell>
+    <Cell><Data>155/2, MEDAVAKKAM ROAD, KILKATTALAI, 600117</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MORE</Data></Cell>
+    <Cell><Data>30/17, TRUST PURAM, 2ND CROSS STREET,KODAMBAKKAM, 600024</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BROWN TREE</Data></Cell>
+    <Cell><Data>70/78, NUNGAMBAKKAM HIGH ROAD, NUNGAMBAKKAM, 600034</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>ODYSSEY RMZ CHENNAI</Data></Cell>
+    <Cell><Data>RMZ MILLENA BUSINESS PARK, 1C, FIRST FLOOR, 143, DR. MGR ROAD,NORTH VEERANAM SALAI,KANDHANCHAVADI, PERUNGUDI, 600096</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>ODYSSEY WIPRO CHENNAI</Data></Cell>
+    <Cell><Data>WIPRO TECHNOLOGIES LTD, FIRST FLOOR,CAFETERIA  BLOCK 475 A,OLD MAHABALI PURAM ROAD, 600119</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BIG BAZAAR</Data></Cell>
+    <Cell><Data>EXPRESS AVENUE MALL, WHITES ROAD,ROYAPETTAH,FVRLHO.BANKING@FUTUREGROUP.IN, 600014</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BROWN TREE</Data></Cell>
+    <Cell><Data>32, VELACHERY MAIN ROAD, 600042</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BROWN TREE</Data></Cell>
+    <Cell><Data>1/47, MOGAPPAIR EST, JJ NAGAR, 600037</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BROWN TREE</Data></Cell>
+    <Cell><Data>38/1, 4TH AVENUE, ASHOK NAGAR, 600083</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BROWN TREE</Data></Cell>
+    <Cell><Data>54, CATHEDRAL ROAD, 600086</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BROWN TREE</Data></Cell>
+    <Cell><Data>160B, OMR ROAD, KARAPAKKAM, OPP TO ARVIND THEATRE, 600097</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BROWN TREE</Data></Cell>
+    <Cell><Data>281/62, LAMBERT NAGAR, ARCOT ROAD,VIRUGAMBAKKAM, 600092</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>SISLEY -EXPRESS AVENUE MALL</Data></Cell>
+    <Cell><Data>EXPRESS AVENUE MALL ,ROYAPEETAH, SHOP 135, 1ST FLOOR,OPP MELODY THEATRE, 600002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MAX RETAIL</Data></Cell>
+    <Cell><Data>MAX RETAIL- CHENNAI, EXPRESS AVENUE, MALL, NO-49-50 L, WHITES ROAD,ROYAPETTAI, 600014</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>LIFESTYLE INTERNATIONAL</Data></Cell>
+    <Cell><Data>EXPRES AVENUE, #49/50 L, WHITE ROAD, ROYAPETTA, 600014</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MAX -MYLAPORE</Data></Cell>
+    <Cell><Data>MAX -MYLAPORE, 86, DR. RADHAKRISHNAN SALAI,MYLAPORE, 600004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>ODYSSEY INDIA LTD</Data></Cell>
+    <Cell><Data>EXPRESS EVENUE MALL SHOP NO S-248, S-248A &amp; A-201 SECOND FLOOR,49-501L WHITES ROAD ROYAPETTAH, 600014</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>ODYSSEY INDIA LTD</Data></Cell>
+    <Cell><Data>HOTEL RADISSON ,NO-531, GST ROAD,ST THOMAS MOUNT, 600016</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MARKS AND SPENCER</Data></Cell>
+    <Cell><Data>EXPRESS AVENUE MALL A-001 &amp; A-101, 49-50L,WHITE ROAD ROAYAPETTAH, 600014</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>LANDMARK LTD</Data></Cell>
+    <Cell><Data>AMPA SKYWALK, # 1, NELSON MANICKAM RD, 627, POONAMALLEE HIGH ROAD, 600029</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>AMMAN STORES</Data></Cell>
+    <Cell><Data>NO 108 B, AMBEDKAR SALAR ROSE AVENUE,S KOLATHUR, 600117</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>SRI VENKATESHWARA SUPER MARKET</Data></Cell>
+    <Cell><Data>PLOT NO 28, 11TH MAIN ROAD,VIJAYA NAGAR, 600042</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>NAIDU HALL -THE WOMEN EXCLUSIVE</Data></Cell>
+    <Cell><Data>NEW NO.1/165, OLD NO.173, EAST COAST ROAD,KOTIVAKKAM, 600041</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>NUTS N SPICES</Data></Cell>
+    <Cell><Data>SEZ SOFTWARE PARK @ CHENNAI ONE, PALLAVARAM, THORIPAKKAM 200 FEET ROAD,THORAIPAKKAM, 600097</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BROWN TREE RETAIL PVT LTD</Data></Cell>
+    <Cell><Data>2/548, SHOP NO.2, ECR, NEELANKARAI, 600083</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>NUTS AND SPICES</Data></Cell>
+    <Cell><Data>N0 115, CHAMIERS ROAD, 600035</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>NUTS N SPICES</Data></Cell>
+    <Cell><Data>ANNEXURE T-1 BLOCK GRD FLR NO 1/124, SHIVANJI GARDENS MOUNT POONAMALLEE,ROAD NANDAMBAKKAM POST MANAPAKKAM, 600089</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>NATURES NEST</Data></Cell>
+    <Cell><Data>14 GEMS COURT,KHADER NAWAZ KHAN ROAD, NUNGAMBAKKAM, 600006</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>HOME CENTRE - EXPRESS AVENUE MALL</Data></Cell>
+    <Cell><Data>HOME CENTRE, NO. 284 TO 287, WHITES RD, ROYAPETTAH, 600014</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>NUTS N SPICES</Data></Cell>
+    <Cell><Data>NEW NO 45, DR RADHAKRISHNAN SALAI, MYLAPORE, 600004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BIG BAZAAR</Data></Cell>
+    <Cell><Data>SHOP NO. 2541, PHOENIX MARKET CITY, NO 142,VELACHERY MAIN ROAD,FVRLHO.BANKING@FUTUREGROUP.IN, 600042</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MEGAMART</Data></Cell>
+    <Cell><Data>100 FEET ROAD NEAR VIJAY NAGAR BUS, STOP, 600042</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>WITCO (INDIA) PVT LTD</Data></Cell>
+    <Cell><Data>157 1ST FLOOR, NUNGAMBAKKAM HIGH ROAD, 600034</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>LIFESTYLE INTERNATIONAL P.L</Data></Cell>
+    <Cell><Data>PHEONIX MARKET CITY NO 142 VELACHERRY, ROAD, 600042</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BIG BAZAAR</Data></Cell>
+    <Cell><Data>45-47, ARCOD ROAD, ANAND RAM DEVELOPER, SALIGRAMAM,VADAVPALANI, NR. BHARANI HOSPITAL,FVRLHO.BANKING@FUTUREGROUP.IN, 600093</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>SHOPPERS STOP</Data></Cell>
+    <Cell><Data>SHYAMALA TOWERS, 136 ARCOT ROAD,SALIGRAMAM, 600093</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>SHOPPERS STOP</Data></Cell>
+    <Cell><Data>365, ANNA SALAI MOUNT ROAD, RAMEE MALL,TEYNAMPET, 600018</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MORE</Data></Cell>
+    <Cell><Data>SHOP NO. 1&amp;2, PLOT NO. 392, OPP. SBOA SCHOOL,ANNA NAGAR WEST, 600101</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MORE</Data></Cell>
+    <Cell><Data>PC-2/6, 2ND BLOCK, NO.12, KAMBAR SALAI,WEST MUGAPPAIR, 600038</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MORE</Data></Cell>
+    <Cell><Data>NO.24, DR. NAIR ROAD, NEAR VANI MAHAL,T NAGAR, 600017</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MORE</Data></Cell>
+    <Cell><Data>NEW NO. 116, RANGA RAJA PURAM, KODAMBAKKAM, 600024</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MORE</Data></Cell>
+    <Cell><Data>GROUND FLOOR, NEW NO. 175, VELLACHERY ROAD,GOWRIVAKKAM, 601302</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MORE</Data></Cell>
+    <Cell><Data>NO. 223, GST ROAD, CHROMPET, 600044</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MORE</Data></Cell>
+    <Cell><Data>NO. 35, RAJAJI ROAD, TAMBARAM WEST, 600045</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MORE</Data></Cell>
+    <Cell><Data>B-63, THE FEDERATION SQUARE, SIVA ILLANGO SALAI, PERIYA NAGAR,PERAMBUR, 600082</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MORE</Data></Cell>
+    <Cell><Data>PLOT NO. 1,1B &amp; 12, VIGNESHWARA NAGAR, MAIN ROAD ULLANAGARAM VILLAGE,MADIPAKKAM, 600091</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MORE</Data></Cell>
+    <Cell><Data>GROUND FLOOR, 5/18, PILLAIYAR KOIL STR, C.PALLAVARAM, 600043</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MORE</Data></Cell>
+    <Cell><Data>GROUND FLOOR, PLOT NO.B.128, D.NO., OLD NO 30,NEW NO 85,1ST AVENUE,ASHOK NAGAR, 600083</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MORE</Data></Cell>
+    <Cell><Data>T.S.NO.22/4, BLOCK NO. 36, GROUND FLOO, ABHISHEK RAMNIYAM, EAST COAST ROAD,THIRUVANMIYUR, 600041</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MORE</Data></Cell>
+    <Cell><Data>GROUND FLOOR NO. 2, CITI LIMIT ROAD, SECRETARIAT COLONY, 600088</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MORE</Data></Cell>
+    <Cell><Data>NO. 182, KUTCHERY ROAD, MYLAPORE, 600004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MORE</Data></Cell>
+    <Cell><Data>NEW NO. 17, OLD NO. 5, KAMRAJAR SALAI, SRINIVASA AVENUE,R.A. PURAM, 600028</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MORE</Data></Cell>
+    <Cell><Data>NO. 57, SANNADHI STREET, THIRUVOTRIYUR, 600099</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MORE</Data></Cell>
+    <Cell><Data>NO. 64/645, SAIDAPET, NEAR KARANEESWARAR TEMPLE,JONES ROAD, 600015</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MORE</Data></Cell>
+    <Cell><Data>NO. 22, CHOOLAIMEDU HIGH ROAD, NEAR GANGAIAMMAN KOVIL,CHOOLAIMEDU, 600094</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MORE</Data></Cell>
+    <Cell><Data>PLOT NO. 8B &amp; 9B, V.G.P, DR. VIMLA NAG, VELACHERY HIGH ROAD,MEDAVAKKAM, 601302</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MORE</Data></Cell>
+    <Cell><Data>NO. 1,2 &amp;3, RAJAKILPAKKAM, NEAR KENDRIYA VIDYALAYA SCHOOL-2,SELAYUR, 600073</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MORE</Data></Cell>
+    <Cell><Data>C.S. 33/6, PAVENDAR, NHI, MARIMALAI NAGAR, 603209</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MORE</Data></Cell>
+    <Cell><Data>NO. 39, WEST CIT NAGAR,NANDANAM, 600035</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MORE</Data></Cell>
+    <Cell><Data>OLD NO. 32 &amp; 33, NEW NO. 43 &amp; 44, NARAYANAPURAM,VELACHERY MAIN ROAD,PALLIKARANAI, 601302</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MORE</Data></Cell>
+    <Cell><Data>NO. 6 &amp; 7, SRIRAM NAGAR, TAMBARAM WEST, 600045</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>COTTAGE INDUSTRIES EXPOSITION LTD</Data></Cell>
+    <Cell><Data>12, KHADAR NAWAZ KHAN ROAD, 600034</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>ODYSSEY</Data></Cell>
+    <Cell><Data>NO.6, I MAIN ROAD, GANDHI NAGAR, ADYAR,ODYSSEYMAIL@USA.NET, 600020</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>WITCO SUPREME (P) LTD.</Data></Cell>
+    <Cell><Data>189,(OLD NO 139), ANNA SALAI, NEAR RAHEJA TOWER,PHONE NO : 044-28600678/28600910, 600002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>WITCO (INDIA ) PVT. LTD.</Data></Cell>
+    <Cell><Data>82 USMAN ROAD, T. NAGAR, 600017</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>WITCO (INDIA)PVT. LTD.</Data></Cell>
+    <Cell><Data>W-109, ANNANAGAR, 600040</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>SPENCERS RETAIL LTD</Data></Cell>
+    <Cell><Data>22,THANI KACHALAM ROAD, T.NAGAR, 600017</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>SPENCERS RETAIL LTD</Data></Cell>
+    <Cell><Data>35 CP RAMASAMY ROAD, R.A PURAM, 600028</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>LANDMARK LIMITED</Data></Cell>
+    <Cell><Data>NO 3 NUNGAMBAKKAM HIGH RD, APEX PLAZA,LANDMARK@VSNL.COM,56767575,F022261093, 600034</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>COTTAGE INDUSTRIES EXPOSITION LTD</Data></Cell>
+    <Cell><Data>118 NUNGAMBAKKAM HIGH RD, 600034</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>LIFE STYLE SUPERMARKET</Data></Cell>
+    <Cell><Data>NO.10 SARDAR PATEL ROAD, ADYAR, 600020</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>PANTALOONS</Data></Cell>
+    <Cell><Data>CEEBROS ENCLAVE, 15 1ST MAIN ROAD,GANDHINAGAR, ADYAR, 600020</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>WESTSIDE</Data></Cell>
+    <Cell><Data>G 50, GROUND FLOOR, SPENCER PLAZA,769 ANNA SALAI, 600002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>LIFE STYLE</Data></Cell>
+    <Cell><Data>2C, II FLOOR, 98-99, LUZ CHURCH ROAD,MYLAPORE, 600004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>NUTS N SPICES</Data></Cell>
+    <Cell><Data>34-B, MAHATMA GANDHI ROAD, NUNGAMBAKKAM, 600034</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>SPENCERS RETAIL LTD</Data></Cell>
+    <Cell><Data>R S NO 688/3, DOOR NO 15 RUNDALLS ROAD,VEPARY, 600007</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>Pantaloons</Data></Cell>
+    <Cell><Data>G 49, F 71, S 36 SPENCER PLAZA PHASE II,NO 768/769, ANNA SALAI, 600002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>SHOPPERS STOP</Data></Cell>
+    <Cell><Data>KRM CENTRE, 2, HARRINGTON ROAD,CHETPET,VIDYAVATHI@SHOPPERSSTOP.CO.IN, 600031</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>AKASAKA CONVENIENCE STORES P LTD</Data></Cell>
+    <Cell><Data>128, GROUND FLOOR,L B ROAD, THIRUVANMAYUR, 600041</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>NUTS N SPICES</Data></Cell>
+    <Cell><Data>F-100 , IST FLOOR2ND PHASE, SPENCER PLAZA769, ANNA SALAI, 600002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CHHOTABHAI RETAILING</Data></Cell>
+    <Cell><Data>CHHOTABHAI CENTRE, 140,NUNGAMBAKKAM HIGH ROAD,CHHOTABHAI@VSNL.COM, 600034</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>HALLE INDIGO NATION</Data></Cell>
+    <Cell><Data>NO-1, ISPAHANI CENTRE,123/124, N H ROAD, 600034</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>SPENCERS RETAIL LTD</Data></Cell>
+    <Cell><Data>18,1ST MAIN ROAD, UNITED INDIA COLONY,KODAMBAKKAM, 600024</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>NAIDU HALL, THE WOMAN EXCLUSIVES</Data></Cell>
+    <Cell><Data>35-36, PONDY BAZAAR,T NAGAR,ARAVINDRAMASWAMY@HOTMAIL.COM, 600017</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>WITCO MYLAPORE</Data></Cell>
+    <Cell><Data>196, KUTCHERRY ROAD,MYLAPORE, 600004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>NAIDU HALL FAMILY STORE,T NAGAR</Data></Cell>
+    <Cell><Data>56, PONDY BAZAAR,T NAGAR, 600017</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>LANDMARK LIMITED</Data></Cell>
+    <Cell><Data>GROUND FLOOR, PHASE-2, SPENCER PLAZA,ANNA SALAI,LANDMARK@VSNL.COM,56767575,F022261093, 600002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>NAIDU HALL THE WOMANS EXCLUSIVES</Data></Cell>
+    <Cell><Data>PURASALWALKAM HIGH ROAD, PURASALWALKAM,ARAVINDRAMASWAMY@HOTMAIL.COM, 600007</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>NUTS N SPICES</Data></Cell>
+    <Cell><Data>SUNNYSIDE, 49/24, I MAIN ROAD, GANDHI NAGAR,ADYAR, 600020</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>FARM BAZZAR</Data></Cell>
+    <Cell><Data>OLD 207, NEW 80, MTH ROAD, AMBATTUR, 600053</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>NAIDU HALL FAMILY STORE</Data></Cell>
+    <Cell><Data>1ST MAIN ROAD, ANNA NAGAR EAST, 600040</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>C K SELVAN STORES</Data></Cell>
+    <Cell><Data>NO.45 MEDAVAKKAM MAIN ROAD, PUZHADHIVAKKAM, 600091</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>WITCO-CATHEDRAL ROAD</Data></Cell>
+    <Cell><Data>22-A, PRINCE ARCADE,CATHEDRAL ROAD, 600086</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>LANDMARK</Data></Cell>
+    <Cell><Data>THE RESIDENCY TOWERS, NO 115,SIR THYAGARAYA ROAD,T NAGAR, 600017</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>SPENCERS RETAIL LTD</Data></Cell>
+    <Cell><Data>NO 40, EAST COAST ROAD, THIRUVANMIYUR, 600041</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>NUTS N SPICES</Data></Cell>
+    <Cell><Data>211, AI BLOCK4TH AVENUE, SHANTI COLONYANNA NAGAR, 600040</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>ROYAL SHOPPE</Data></Cell>
+    <Cell><Data>31/1 TANSI NAGAR FIRST MAIN ROAD, OFF 100 FEET ROAD,TARAMANI LINK ROAD VELACHERRY, 600042</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BEST CHOICE</Data></Cell>
+    <Cell><Data>NO 125, USMAN ROAD,T NAGAR, 600017</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>NUTS N SPICES</Data></Cell>
+    <Cell><Data>JAMALS RAJBHAVANFLAT, A NEW NO 15VASU STREET,KILPAUK,NUTSNSPICES@REDIFFMAIL.COM, 600010</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>NAIDU HALL THE WOMAN EXCLUSIVE</Data></Cell>
+    <Cell><Data># 196, GST ROAD,NEW COLONY CHROMPET, 600044</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>ODYSSEY LEISURE STORE</Data></Cell>
+    <Cell><Data>NO 40 EAST COAST ROAD, THIRUVANMIYUR,WWW.ODYSSEY.IN,F-04442114799,24420393, 600041</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>NAIDU HALL, THE WOMAN EXCLUSIVES</Data></Cell>
+    <Cell><Data>51 MAIN ROAD, GANDHINAGAR ADYAR,ARVINDRAMASWAMY@HOTMAIL.COM, 600020</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>NUTS N SPICES</Data></Cell>
+    <Cell><Data>TOWER VICTOIRE 45, G N CHETTY ROAD,T. NAGAR, 600017</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>LIFESTYLE</Data></Cell>
+    <Cell><Data># 10 &amp; 11, DR RADHAKRISHNAN SALAI, MYLAPORE, 600004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>LANDMARK LIMITED</Data></Cell>
+    <Cell><Data>10 &amp; 11, DR RADHAKRISHNAN SALAI,LANDMARK@VSNL.COM,56767575,F022261093, 600004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>NUTS N SPICES</Data></Cell>
+    <Cell><Data>NEW NO 30 (OLD # 10), 10TH AVENUE, ASHOK NAGAR, 600083</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CHHOTABHAI RETAILING</Data></Cell>
+    <Cell><Data>34/1, EAST COAST ROAD,INNER TOLGATE PLAZA KANATHUR, 603112</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>SPENCERS RETAIL LTD</Data></Cell>
+    <Cell><Data>NO 18,159 MAIN ROAD, UNITED INDIA COLONY,KODAMBAKKAM, 600001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>SPENCERS RETAIL LTD</Data></Cell>
+    <Cell><Data>NO 41 &amp; 42, EAST COAST ROAD,INJAMBAKKAM VILLAGE, 600041</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>SPENCERS RETAIL LTD</Data></Cell>
+    <Cell><Data>40 EAST COAST, THIRUVANMIYUR, 600041</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>RAJASRI FOODS AND BEVERAGES</Data></Cell>
+    <Cell><Data>NEW NO-215/A,OLD NO-13/A, VELACHERY MAIN ROAD,VELACHERY, 600042</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MEGAMART</Data></Cell>
+    <Cell><Data>NO 30/1 A,ABDUL RAJAK STREET SAIDAPET, 600015</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MEGAMART</Data></Cell>
+    <Cell><Data>GROUND FLR,PLOT -27 &amp; 28, EAST COAST ROAD,KOTTIVAKKAM, 600041</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MEGAMART</Data></Cell>
+    <Cell><Data>PRIYAN PLAZA 76 OLD NO-52, NELSON MANICKAM RD.,AMANJIKERAI, 600029</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>NUTS N SPICES</Data></Cell>
+    <Cell><Data>NEW NO 620,OLD NO 2/533, EAST COAST ROAD,NEELANKARAI, 600041</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>NUTS N SPICES</Data></Cell>
+    <Cell><Data>A 6 PALANI MURUGAN TOWERS# 46, MOUNT POONAMALLE ROAD,NANDAMPAKKAM, 600089</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>M/S APS PLAZAA</Data></Cell>
+    <Cell><Data>NO 24, SARDAR PATEL ROAD,ADYAR, 600020</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>WESTSIDE</Data></Cell>
+    <Cell><Data>AMPA CENTRE ONE NO.1 NELSON, MANICKAM ROAD,AMINJIKARANI, 600029</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>ODYSSEY</Data></Cell>
+    <Cell><Data>OLYMPIA TECHNOLOGY PARK GR FLR, PLANET YUMUIN FOODCOURT NO.1,SIDCO INDL.ESTATE,GUINDY, 600032</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>WOODLAND</Data></Cell>
+    <Cell><Data>WOODLAND STORE, SHOP NO-8, DOOR NO-151/153 &amp; 155,POONAMALLE HIGH ROAD, KILPAUK, 600010</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BIG BAZAAR</Data></Cell>
+    <Cell><Data>JANAPRIYA CENTRE #34 PANDIBAZAR, TYAGAVAJ ROAD,FVRLHO.BANKING@FUTUREGROUP.IN, 600017</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MEGAMART</Data></Cell>
+    <Cell><Data>MEGA MART, PLOT # 23 24 EAST COAST ROAD,KOTTIVAKAM, 600041</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MEGAMART</Data></Cell>
+    <Cell><Data>MEGA MART, # 144 OPP NEW G R T JEWELLERY,NORTH USMAN ROAD T NAGAR, 600017</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MEGAMART</Data></Cell>
+    <Cell><Data>MEGA MART, NO 302 A GST ROAD,CHROMPET, 600044</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MEGAMART</Data></Cell>
+    <Cell><Data>MEGA MART, # 2 GANESH NAGAR MEDAVAKKAM,MAIN ROAD MADIPAKKAM, 600091</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>VIMALA SUPERMARKET</Data></Cell>
+    <Cell><Data>868 DR RAMASAMY SALAI, K K NAGAR, 600078</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>SEKAR STORES</Data></Cell>
+    <Cell><Data>NO 101, NEW NO 52/1, KALAVAI CHETTY STREET,CHINDARIPET, 600002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>HALEEM STORES</Data></Cell>
+    <Cell><Data>NO 1, ANNA PILLAI STREET, 600001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>STEP IN SUPER MARKET</Data></Cell>
+    <Cell><Data>NO-2-1,KRISHNA FLATS,GROUND FLOOR, 13TH STREET,ANNA NAGAR EAST, 600040</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>AMMA NAANA DEPT ST</Data></Cell>
+    <Cell><Data># 100,CHAMIERS ROAD, TEYNAMPET, 600018</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>POOMAGAL SUPER MARKET</Data></Cell>
+    <Cell><Data># 1A, TELUGU BRAHMIN STREET, VELACHERY, 600042</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>VASANTH SUPER MARKET</Data></Cell>
+    <Cell><Data>100FT ROAD, TARAMANI LINK ROAD, VELACHERY, 600047</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>NUTS N SPICES</Data></Cell>
+    <Cell><Data># 1,LAKSHMI NAGAR,1ST MAIN ROAD, (100 FT BYE PASS ROAD), 600042</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>SPENCER'S</Data></Cell>
+    <Cell><Data>PLOT # 13, GROUND FLOOR RAJENDRA PRASAD,ROAD NEHRU NAGAR, 600044</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>SPENCER'S</Data></Cell>
+    <Cell><Data>25 I ARUNCHALAM ROAD, SALIGRAMMA, 600093</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>SPENCER'S</Data></Cell>
+    <Cell><Data>17 1ST MAIN ROAD, GANDHI NAGAR, 600020</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>ODYSSEY</Data></Cell>
+    <Cell><Data>ODYSSEY,DEV APPARTMENTS, NO 13 &amp; 14,SUNDRAJAN STREET,ST MARY'S ROAD,ABHIRAMAPURAM, 600018</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MERMAIDS</Data></Cell>
+    <Cell><Data>C/O MERMAIDS, NO.11, KHADER NAWAZ KHAN ROAD,NUNGAMBAKKAM, 600034</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>NUTS N SPICES</Data></Cell>
+    <Cell><Data>YESDE HOUSE NEW # 167, OLD # 131 VALLUVARKOTTAM HIGH ROAD,NUNGAMBAKKAM, 600034</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MEGAMART</Data></Cell>
+    <Cell><Data>NO.1 ARCOT ROAD ALWAR TIRUNAOAV, BUS STAND VALASARAVAKKAM, 600087</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>ALADDINS BAZZAR</Data></Cell>
+    <Cell><Data>ALADDINS BAZZAR,CITI CENTRE, 2ND FLR DR.RADHA KRISHNAN SALAI,MYLAPORE, 600004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>SRI SANKARPANDIAN STORES</Data></Cell>
+    <Cell><Data>84,85, USMAN ROAD,T NAGAR, 600017</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>VICTORY STORES</Data></Cell>
+    <Cell><Data>NO.421/5, T.H. ROAD,OLD WASHERMENPET, 600021</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>NAIDU HALL THE FAMILY STORE</Data></Cell>
+    <Cell><Data>NAIDU HALL THE FAMILY STORE, 12/563,THIRUVALLUVAR SALAI,MOGAPPAIR -EAST, 600037</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>NUTS N SPICES</Data></Cell>
+    <Cell><Data>NUTS N SPICES, GANAPATHI MANDIRAM FLAT NO.17,NEW NO.19,OLD NO.3, CONRAN SMITH ROAD., 600086</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>FRESH @ MOG APPAIR WEST</Data></Cell>
+    <Cell><Data>FRESH @ MOG APPAIR WEST, NO.PC-1 80 ROAD( POISEON BIOTECH),MOG APPAIR WEST, 600037</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>FRESH @ GOPALAPURAM</Data></Cell>
+    <Cell><Data>FRESH @ GOPALAPURAM, NO 17 &amp; 19,CONRON SMITH ROAD GOPALAPURAM,VATHANAVALLI@FRESHAT.IN, 600086</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>FRESH @ MUGATYAKKAM</Data></Cell>
+    <Cell><Data>FRESH @ MUGATYAKKAM, PLOT NO 10 &amp; 11,MUGALIVAKKAM  MAIN RD,SRIRAM NAGAR,PORUR, 600116</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>FRESH @ VALASARAVAKKAM</Data></Cell>
+    <Cell><Data>FRESH @ VALASARAVAKKAM, NEW NO.75,DR RADHAKRISHNAN RD GREENS,RIVERA APARTMENTS VALASARAVAKKAM, 600687</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>FRESH @ CHOOLAIMEDU</Data></Cell>
+    <Cell><Data>FRESH @ CHOOLAIMEDU, GR FLR COMM SHOP GREATA PEARI APPTS,NO 174 CHOOLAIMEDU HIGH ROAD, 600094</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>FRESH @ PALLIKARANAI</Data></Cell>
+    <Cell><Data>FRESH @ PALLIKARANAI, PLOT # 36 N V APPTS KAMOKOTI NGR MAIN,RD OPP BALAJI DENTAL COLL PALLIKARANAI, 601100</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>NUTS N SPICES</Data></Cell>
+    <Cell><Data>PLOT NO.1017-C,I BLOCK, NO.88 6TH AVENUE ANNA NAGAR WEST,ANNA NAGAR, 600040</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>NUTS N SPICES</Data></Cell>
+    <Cell><Data>ASCENDAS IT PARK,UNIT NO.G8, GR FLR PHASE-1 INTERNATIONAL TECH PARK,TARAMANI RD  TARAMANI, 600113</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>1</ActiveRow>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
