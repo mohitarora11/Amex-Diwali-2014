@@ -11,10 +11,6 @@
    x:FullRows="1" ss:DefaultRowHeight="15">
    
    <Row>
-    <Cell><Data>MER_NAME</Data></Cell>
-    <Cell><Data>MER_ADD</Data></Cell>
-   </Row>
-   <Row>
     <Cell><Data>MAX RETAIL</Data></Cell>
     <Cell><Data>NO,479 CHINMAYA HOSPITAL MISSION, ROAD 1ST STAGE BINNAMANGALA,INDIRA NAGAR, 560038</Data></Cell>
    </Row>
