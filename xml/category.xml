@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <categories>
-	<category name="Supermarket &amp; Grocery Stores" file="xml/data/ApparelsAndAccessories" icon="supermarket" citysearch="1">
+	<category name="Apparels &amp; Accessories" file="xml/data/ApparelsAndAccessories" icon="supermarket" citysearch="1">
 		<partner name="Big Bazaar" img="barbeque.jpg" href="javascript:void(0)" />
 		<partner name="More" img="hp.jpg" href="javascript:void(0)" />
 		<partner name="KB's FAIR PRICE" img="samsung.jpg" href="javascript:void(0)" />
@@ -13,7 +13,7 @@
 		<partner name="Food Hall" img="samsung.jpg" href="javascript:void(0)" />
 	</category>
 	
-	<category name="Standalone Restaurants" file="xml/data/StandaloneRestaurants.xml" icon="dining" citysearch="2">
+	<category name="Home, Kitchen &amp; Furnishings" file="xml/data/StandaloneRestaurants.xml" icon="dining" citysearch="2">
 		<partner name="CAFE COFEE DAY" img="barbeque.jpg" href="javascript:void(0)" />
 		<partner name="DOMINOS" img="hp.jpg" href="javascript:void(0)" />
 		<partner name="KFC" img="samsung.jpg" href="javascript:void(0)" />
@@ -27,12 +27,17 @@
 		<partner name="MAINLAND CHINA" img="samsung.jpg" href="javascript:void(0)" />
 		<partner name="BARBEQUE NATION" img="samsung.jpg" href="javascript:void(0)" />
 	</category>
-	<category name="Fuel" file="xml/data/Fuel.xml" icon="fuel" citysearch="1">
+	<category name="Departmental Stores" file="xml/data/Fuel.xml" icon="fuel" citysearch="1">
 		<partner name="HPCL" img="hp.jpg" href="javascript:void(0)" />
 		<partner name="IOCL" img="hp.jpg" href="javascript:void(0)" />
 		<partner name="BPCL" img="hp.jpg" href="javascript:void(0)" />
 	</category>
-	<category name="Movies" file="xml/data/Movies.xml" icon="entertainment" citysearch="2">
+	<category name="Electronics" file="xml/data/Fuel.xml" icon="entertainment" citysearch="1">
+		<partner name="HPCL" img="hp.jpg" href="javascript:void(0)" />
+		<partner name="IOCL" img="hp.jpg" href="javascript:void(0)" />
+		<partner name="BPCL" img="hp.jpg" href="javascript:void(0)" />
+	</category>
+	<category name="Others" file="xml/data/Movies.xml" icon="communication" citysearch="2">
 		<partner name="PVR" img="hp.jpg" href="javascript:void(0)" />
 		<partner name="BIG Cinemas" img="hp.jpg" href="javascript:void(0)" />
 		<partner name="Inox" img="hp.jpg" href="javascript:void(0)" />
@@ -41,7 +46,7 @@
 	</category>
 	
 	
-	<category name="Telephone &amp; Internet" file="xml/data/TelephoneInternet.xml" icon="communication" citysearch="2">
+	<!--<category name="Telephone &amp; Internet" file="xml/data/TelephoneInternet.xml" icon="communication" citysearch="2">
 		<partner name="Airtel" img="samsung.jpg" href="javascript:void(0)" />
 		<partner name="Vodafone" img="barbeque.jpg" href="javascript:void(0)" />
 		<partner name="Idea" img="samsung.jpg" href="javascript:void(0)" />
@@ -54,5 +59,5 @@
 		<partner name="TATA POWER" img="samsung.jpg" href="javascript:void(0)" />
 		<partner name="MAHANAGAR GAS" img="samsung.jpg" href="javascript:void(0)" />
 		<partner name="RELIANCE ENERGY" img="samsung.jpg" href="javascript:void(0)" />
-	</category>
+	</category>-->
 </categories>
