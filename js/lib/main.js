@@ -208,7 +208,9 @@
 					//category.file = category.file +'-'+city+'.xml';
 					//if (void 0 == category.data) {
 						//category.data = y.func.loadXml(category.file);
+						if (void 0 != city){
 						category.data = y.func.loadXml(category.file +'-'+city+'.xml');
+						}
 					//}
 				},
 				loadCategory: function () {
