@@ -10,10 +10,10 @@ h1,h2,h3,h4{font-family:"Century Gothic" Arial}
 .base{ background:#f6efd7; border: solid 1px #cfa852; margin-top:-21px; }
 .img-thumbnail { width:100%; border:none; background:none; }
 .filters { font:normal 14px "Century Gothic" ; color:#101010; text-transform:uppercase; width:100%; float:left; background:#52351d;padding:20px 15px; margin-bottom:30px; }
-.filters form { width:868px; margin:0 auto; color:#fff;}
-.fil { width:85px; float:left; padding-top:10px;} 
+.filters form { width:80%; margin:0 auto; color:#fff;}
+.fil {  float:left; padding-top:10px; padding-right:10px;} 
 .filters input[type="button"] { width:41px ; height:38px; background:url(../images/sprite.png) -12px -194px no-repeat; float:left; border:none;}
-.filters input[type='text'] { width:266px; float:left; height:37PX;}
+.filters input[type='text'] { float:left; height:37PX; padding-left:10px;}
 
 .filters select { float:left; width:220px; height:37px; background:#efefef; border:solid 1px #e5e5e5; color:#101010; font-size:14px; padding:8px 5px; margin-right:10px;}
 .basetop { background:url(../images/base.jpg) no-repeat; border:solid 1px #cca34a; width:100%; margin:0; padding:316px 0 0 0;  }
@@ -21,7 +21,7 @@ h1,h2,h3,h4{font-family:"Century Gothic" Arial}
 .basetop p { width:100%; text-align:center; font-size:18px; display:block; line-height:18px;}
 
 .basetop ul {width:60%; margin:10px auto;}
-.basetop li { display:inline-block; width:30%; vertical-align:top; border-right:solid 1px #acaaa3; min-height:100px; padding:10px;}
+.basetop li { display:inline-block; vertical-align:top; border-right:solid 1px #acaaa3; min-height:100px; padding:10px;}
 .basetop li strong { display:block;}
 .basetop li +li + li { border-right:0;}
 .basetop ul li strong { text-transform:uppercase; font-size:14px;}
@@ -108,6 +108,10 @@ header form { margin:10px; color:#101010; font:normal 15px "Century Gothic" ;}
 	.navbar-nav { margin:0;}
 	.navbar-default .navbar-collapse, .navbar-default .navbar-form { border:none; box-shadow:none;}
 	.base .pagination { width:100%;}
+	
+	.filter-category { width:100%;}
+	
+	.filters form  { width:90}
 	}
 
 
@@ -187,6 +191,12 @@ header form { margin:10px; color:#101010; font:normal 15px "Century Gothic" ;}
 	.baseshothome { height:1464px;}
 .baseshot { height:1464px;} 
 	.offer1 {  height:135px;}
+	.basetop { padding:0; background:#fffdf4
+	;}
+	
+	.basetop ul { width:100%;}
+	.basetop ul li { border-right:none; padding:0;}
+	
 	}
 	
 	
