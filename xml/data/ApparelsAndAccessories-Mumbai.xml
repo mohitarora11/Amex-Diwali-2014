@@ -1,14 +1,9 @@
 <?xml version="1.0"?>
 <?mso-application progid="Excel.Sheet"?>
-<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
- xmlns:o="urn:schemas-microsoft-com:office:office"
- xmlns:x="urn:schemas-microsoft-com:office:excel"
- xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
- xmlns:html="http://www.w3.org/TR/REC-html40">
+<Workbook>
  
  <Worksheet ss:Name="Apparels &amp; Accessories">
-  <Table ss:ExpandedColumnCount="2" ss:ExpandedRowCount="5069" x:FullColumns="1"
-   x:FullRows="1" ss:DefaultRowHeight="15">
+  <Table>
    
    <Row>
     <Cell><Data>WILLS LIFESTYLE</Data></Cell>
@@ -20282,7 +20277,6 @@
     <Cell><Data>TITAN EYE +</Data></Cell>
     <Cell><Data>#  8 &amp; 9 PLOT  569 SRI SUNDER APT, OPP DIAMOND GARDEN,SION  TROMBAY RD,CHEMBUR, 400071</Data></Cell>
    </Row>
-  </Table>
- 
+  </Table> 
  </Worksheet>
 </Workbook>
