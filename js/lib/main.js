@@ -13,7 +13,7 @@
 				featuredPartners: '.featured-partners',
 				cityXml: 'xml/city.xml',
 				categoryXml: 'xml/category.xml',
-				total: 15,
+				total: 9,
 				defaultCity: 'Delhi',
 				ignoreCity: 'Please Visit',
 				page: 'search',
@@ -206,12 +206,13 @@
 				},
 				loadData: function (category,city) {
 					//category.file = category.file +'-'+city+'.xml';
-					//if (void 0 == category.data) {
+					if (void 0 == category.xmldata[category.file +'-'+city]) {
 						//category.data = y.func.loadXml(category.file);
 						if (void 0 != city){
-						category.data = y.func.loadXml(category.file +'-'+city+'.xml');
+							//category.data = y.func.loadXml(category.file +'-'+city+'.xml');
+							category.xmldata[category.file +'-'+city] = y.func.loadXml(category.file +'-'+city+'.xml');
 						}
-					//}
+					}
 				},
 				loadCategory: function () {
 					var fp = y.func.loadXml(y.opt.categoryXml), category = fp.getElementsByTagName('category'), i, ln = category.length, j, jln, partner, pArr;
@@ -222,7 +223,8 @@
 							icon: category[i].getAttribute('icon'),
 							name: category[i].getAttribute('name'),
 							citysearch: category[i].getAttribute('citysearch'),
-							data: null
+							data: null,
+							xmldata:[]
 						});
 						pArr = [];
 						partner = category[i].getElementsByTagName('partner');
@@ -412,8 +414,9 @@
 					$div = $('<ul/>'), $dt, regX = null, regText = '', dDiv,
 					filterText = $.trim(y.obj.$filterText.val()), end, found = false;
 					y.func.loadData(category,y.vr.selectedCity);
-					if (void 0 != category.data) {
-						row = category.data.getElementsByTagName('Row');
+					//if (void 0 != category.data) {
+					if (void 0 != category.xmldata[category.file+'-'+y.vr.selectedCity]) {
+						row = category.xmldata[category.file+'-'+y.vr.selectedCity].getElementsByTagName('Row');
 						ln = row.length;
 					}
 					if ('' != y.vr.selectedCity || '' != filterText) {
