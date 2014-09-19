@@ -11,14 +11,10 @@
    x:FullRows="1" ss:DefaultRowHeight="15">
    
    <Row>
-    <Cell ss:StyleID="s16"><Data>MER_NAME</Data></Cell>
-    <Cell ss:StyleID="s16"><Data>MER_ADDRESS</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="21">
     <Cell><Data>SHOE STUDIO MADRAS</Data></Cell>
     <Cell><Data>NO.33/22 VENKATESA PURAM COLONY, SOUTH STREET AYANAVARAM, 600023</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="16.5">
+   <Row>
     <Cell><Data>FLORIDA FASHIONS</Data></Cell>
     <Cell><Data>138/30 FLORIDA TOWERS, NELSON MANICKAM ROAD,AMINJIKARAI, 600029</Data></Cell>
    </Row>
