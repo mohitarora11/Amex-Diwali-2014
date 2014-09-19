@@ -7,27 +7,29 @@ h1,h2,h3,h4{font-family:"Century Gothic" Arial}
 .ui-dialog-titlebar .ui-button{outline:none}
 .navbar-default { background:none; border:none;}
 .navbar strong { color:#fff; font: normal 16px "Century Gothic" ; text-transform:uppercase; float:left; padding:10px 10px 10px 83px;}
-.base{ background:#f6efd7; border: solid 1px #cfa852; }
+.base{ background:#f6efd7; border: solid 1px #cfa852; margin-top:-21px; }
 .img-thumbnail { width:100%; border:none; background:none; }
 .filters { font:normal 14px "Century Gothic" ; color:#101010; text-transform:uppercase; width:100%; float:left; background:#52351d;padding:20px 15px; margin-bottom:30px; }
 .filters form { width:868px; margin:0 auto; color:#fff;}
 .fil { width:85px; float:left; padding-top:10px;} 
 .filters input[type="button"] { width:41px ; height:38px; background:url(../images/sprite.png) -12px -194px no-repeat; float:left; border:none;}
-.filters input[type='text'] { width:266px; float:left;}
+.filters input[type='text'] { width:266px; float:left; height:37PX;}
 
 .filters select { float:left; width:220px; height:37px; background:#efefef; border:solid 1px #e5e5e5; color:#101010; font-size:14px; padding:8px 5px; margin-right:10px;}
-.basetop { background:url(../images/base.jpg) no-repeat; border:solid 1px #cca34a; width:100%; margin:0; padding:335px 0 0 0;  }
+.basetop { background:url(../images/base.jpg) no-repeat; border:solid 1px #cca34a; width:100%; margin:0; padding:316px 0 0 0;  }
 .basetop strong { width:100%; text-align:center; font-size:35px; display:block;}
 .basetop p { width:100%; text-align:center; font-size:18px; display:block; line-height:18px;}
 
 .basetop ul {width:60%; margin:10px auto;}
 .basetop li { display:inline-block; width:30%; vertical-align:top; border-right:solid 1px #acaaa3; min-height:100px; padding:10px;}
+.basetop li strong { display:block;}
 .basetop li +li + li { border-right:0;}
-
+.basetop ul li strong { text-transform:uppercase; font-size:14px;}
 
 .base h2 { color:#ed1c24; margin:20px 0 5px; float:left; width:100%; font-size:21px;}
 .base ul { width:100%; float:left; font-family:Arial, Helvetica, sans-serif;}
 .base ul li { background:#fff; box-shadow:2px 1px 2px #e9e0c8; }
+
 .base ul li .heading { font-size:16px; display:block; padding:5px 0; float:left; width:100%;color:#664e39; font-weight:bold;}
 /*.base ul li + li { margin:0 10px}
 
@@ -44,11 +46,14 @@ h1,h2,h3,h4{font-family:"Century Gothic" Arial}
 .base .pagination a { color:#2d2d2a;}
 
 
-.category-div {border:solid 1px #d0a953; text-align:center; border-top:none; border-bottom:none; width:100%; }
+.category-div {border:solid 1px #d0a953; text-align:center; border-top:none; border-bottom:none; width:100%; float:left; }
+.category-div strong { font-size:17px; color:#2e1b0b; width:100%; text-align:center;}
+
+.category-div ul { margin:0; padding:0 0 0 13px;}
 .navbar-brand { padding:0; margin-top:-12px;}
 .navbar-nav  { margin-top:0; color:#fff; }
 .nav > li { margin:0 15px 0 10px; padding:0;}
-.navbar-nav li { width:120px; float:left; text-align:center; margin-right:30px;}
+.navbar-nav li { width:165px; float:left; text-align:center; margin-right:15px;}
 .navbar-default .navbar-nav > li > a{ color:#2e1b0b;}
 .navbar-nav span { width:113px; height:118px; float:left; background:url(../images/sprite.png) -5px -4px no-repeat; display:block;}
 .navbar-nav .supermarket span { background-position:-17px -16px; margin:0 10px}
@@ -57,10 +62,10 @@ h1,h2,h3,h4{font-family:"Century Gothic" Arial}
 .navbar-nav .utility span { background-position:-561px -16px; margin:0 10px;}
 .navbar-nav .fuel span { background-position:-376px -16px;margin:0 15px}
 .navbar-nav .dining span { background-position:-196px -16px; margin:0 10px;}
-
+.navbar-nav .online span { background-position:-743px -134px; margin:5px 10px 0 ;}
 .navbar-nav .communication { margin-right:15px;}
-
-
+.featured-partners { margin:0 10px;}
+.featured-partners ol li { display:inline-block; margin:0px 0px 10px 0;}
 
 
 .logo { margin:5px 0 0 0; font:normal 14px "Century Gothic" ; color:#000000; text-align:center;margin-top:30px}

@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <categories>
 	<category name="Apparels &amp; Accessories" file="xml/data/ApparelsAndAccessories" icon="supermarket" citysearch="1">
-		<partner name="Big Bazaar" img="barbeque.jpg" href="javascript:void(0)" />
-		<partner name="More" img="hp.jpg" href="javascript:void(0)" />
-		<partner name="KB's FAIR PRICE" img="samsung.jpg" href="javascript:void(0)" />
-		<partner name="EASY DAY" img="samsung.jpg" href="javascript:void(0)" />
-		<partner name="VISHAL MEGAMART" img="samsung.jpg" href="javascript:void(0)" />
-		<partner name="LE MARCHE" img="samsung.jpg" href="javascript:void(0)" />
-		<partner name="NATURE'S BASKET" img="samsung.jpg" href="javascript:void(0)" />
-		<partner name="FOODWORLD" img="samsung.jpg" href="javascript:void(0)" />		
-		<partner name="Needs" img="samsung.jpg" href="javascript:void(0)" />
-		<partner name="Food Hall" img="samsung.jpg" href="javascript:void(0)" />
+		<partner name="Big Bazaar" img="p_logo1.jpg" href="javascript:void(0)" />
+		<partner name="More" img="p_logo2.jpg" href="javascript:void(0)" />
+		<partner name="KB's FAIR PRICE" img="p_logo1.jpg" href="javascript:void(0)" />
+		<partner name="EASY DAY" img="p_logo1.jpg" href="javascript:void(0)" />
+		<partner name="VISHAL MEGAMART" img="p_logo3.jpg" href="javascript:void(0)" />
+		<partner name="LE MARCHE" img="p_logo4.jpg" href="javascript:void(0)" />
+		<partner name="NATURE'S BASKET" img="p_logo4.jpg" href="javascript:void(0)" />
+		<partner name="FOODWORLD" img="p_logo1.jpg" href="javascript:void(0)" />		
+		<partner name="Needs" img="p_logo1.jpg" href="javascript:void(0)" />
+		<partner name="Food Hall" img="p_logo1.jpg" href="javascript:void(0)" />
 	</category>
 	
 	<category name="Home, Kitchen &amp; Furnishings" file="xml/data/HomeKitchenandFurnishing" icon="dining" citysearch="2">

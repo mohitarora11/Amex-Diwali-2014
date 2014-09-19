@@ -267,13 +267,13 @@
 							$ol = $('<ol/>').addClass('list-unstyled');
 							for (i = 0; i < ln; i++) {
 								fp = y.dt.fp[category][i];
-								$li = $('<li/>');
-								$a = $('<a/>').attr('href', fp.href).text(fp.name).click(function(e){
+								$li = $('<li/>').addClass('col-md-3');
+								/*$a = $('<a/>').attr('href', fp.href).text(fp.name).click(function(e){
 									y.obj.$filterText.val(this.innerHTML);
 									y.evnt.searchData(e);
-								});
-								/*$('<img/>').attr({alt: fp.name, src: 'images/featured-partners/' + fp.img}).addClass('img-thumbnail').appendTo($a);*/								
-								$a.appendTo($li);
+								});*/
+								$('<img/>').attr({alt: fp.name, src: 'images/' + fp.img}).addClass('img-thumbnail').appendTo($li);								
+								//$a.appendTo($li);
 								$li.appendTo($ol);
 							}
 							$ol.appendTo(y.obj.$featuredPartners);
@@ -295,7 +295,7 @@
 						})
 					}
 					else {
-						$ul.addClass('nav navbar-right');
+						$ul.addClass('nav');
 						y.obj.$catA.click(function(e) {
 							y.evnt.selectCategory(e, this);
 						})
