@@ -409,7 +409,7 @@
 				},
 				dataListing: function(action) {
 					var category = y.dt.category[y.vr.selectedCategoryIndex], row = [] , i, ln = 0,
-					$div = $('<ul/>').addClass('row'), $dt, regX = null, regText = '', dDiv,
+					$div = $('<ul/>'), $dt, regX = null, regText = '', dDiv,
 					filterText = $.trim(y.obj.$filterText.val()), end, found = false;
 					y.func.loadData(category,y.vr.selectedCity);
 					if (void 0 != category.data) {
