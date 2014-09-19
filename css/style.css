@@ -16,7 +16,14 @@ h1,h2,h3,h4{font-family:"Century Gothic" Arial}
 .filters input[type='text'] { width:266px; float:left;}
 
 .filters select { float:left; width:220px; height:37px; background:#efefef; border:solid 1px #e5e5e5; color:#101010; font-size:14px; padding:8px 5px; margin-right:10px;}
-.basetop { background:url(../images/base) no-repeat; border:solid 1px #cca34a; width:100%; margin:0;  }
+.basetop { background:url(../images/base) no-repeat; border:solid 1px #cca34a; width:100%; margin:0; padding:335px 0 0 0;  }
+.basetop strong { width:100%; text-align:center; font-size:35px; display:block;}
+.basetop p { width:100%; text-align:center; font-size:18px; display:block; line-height:18px;}
+
+.basetop ul {width:60%; margin:10px auto;}
+.basetop li { display:inline-block; width:30%; vertical-align:top; border-right:solid 1px #acaaa3; min-height:100px; padding:10px;}
+.basetop li +li + li { border-right:0;}
+
 
 .base h2 { color:#ed1c24; margin:20px 0 5px; float:left; width:100%; font-size:21px;}
 .base ul { width:100%; float:left; font-family:Arial, Helvetica, sans-serif;}
