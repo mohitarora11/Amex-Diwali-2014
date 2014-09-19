@@ -13,7 +13,7 @@
 				featuredPartners: '.featured-partners',
 				cityXml: 'xml/city.xml',
 				categoryXml: 'xml/category.xml',
-				total: 9,
+				total: 15,
 				defaultCity: 'Delhi',
 				ignoreCity: 'Please Visit',
 				page: 'search',
@@ -38,7 +38,7 @@
 	$.yoku = function(me, opt) {
 		var y = {
 			version: '1.0',
-			author: 'YoKu',
+			author: 'Mohit',
 			website: 'www.monthly-blockbusters.com',
 			purpose: 'General Search',
 			opt: $.extend({
@@ -206,10 +206,10 @@
 				},
 				loadData: function (category,city) {
 					//category.file = category.file +'-'+city+'.xml';
-					if (void 0 == category.data) {
+					//if (void 0 == category.data) {
 						//category.data = y.func.loadXml(category.file);
 						category.data = y.func.loadXml(category.file +'-'+city+'.xml');
-					}
+					//}
 				},
 				loadCategory: function () {
 					var fp = y.func.loadXml(y.opt.categoryXml), category = fp.getElementsByTagName('category'), i, ln = category.length, j, jln, partner, pArr;
@@ -236,8 +236,13 @@
 				},
 				cityChange:function(){
 				$(document).on('change','.filter-city .a-filter',function(){
-					alert('hiii');
-					y.obj.$filterCategory.val(y.vr.selectedCategory).trigger('change');
+					
+					y.obj.$filterCategory.val(y.vr.selectedCategory);
+					//y.obj.$filterCategory.trigger('change');
+					
+					//y.evnt.selectCategory();
+					//$('a.active').click();
+					//$('.filter-category select').trigger('change');
 				});
 				},
 				createFp: function (category) {
@@ -441,7 +446,7 @@
 							$('<li/>').addClass('blank').prependTo($div);
 							}*/
 							if (y.opt.counter % 3 ==0 && y.opt.counter < y.opt.total && dDiv[0]){
-								$('<li/>').addClass('blank').prependTo($div);
+								$('<li/>').addClass('blank col-md-12').prependTo($div);
 							}
 							if (y.opt.counter >= y.opt.total) {
 								break;
@@ -462,7 +467,8 @@
 							$('<li/>').addClass('blank').appendTo($div);
 							}*/
 							if (y.opt.counter % 3 ==0 && (y.opt.counter < y.opt.total)&& dDiv[0]){
-								$('<li/>').addClass('blank').appendTo($div);
+								$('<li/>').addClass('blank col-md-12').appendTo($div);
+								//$('</ul><ul>').addClass('blank').appendTo($div);
 							}
 							if (y.opt.counter >= y.opt.total) {
 								i++;
