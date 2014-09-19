@@ -206,11 +206,19 @@
 				},
 				loadData: function (category,city) {
 					//category.file = category.file +'-'+city+'.xml';
-					if (void 0 == category.xmldata[category.file +'-'+city]) {
-						//category.data = y.func.loadXml(category.file);
-						if (void 0 != city){
-							//category.data = y.func.loadXml(category.file +'-'+city+'.xml');
-							category.xmldata[category.file +'-'+city] = y.func.loadXml(category.file +'-'+city+'.xml');
+					
+					if (category.citysearch == 3) {
+						if (void 0 == category.xmldata[category.file]) {
+							category.xmldata[category.file] = y.func.loadXml(category.file+'.xml');
+						}
+					
+					}else{
+						if (void 0 == category.xmldata[category.file +'-'+city]) {
+							//category.data = y.func.loadXml(category.file);
+							if (void 0 != city){
+								//category.data = y.func.loadXml(category.file +'-'+city+'.xml');
+								category.xmldata[category.file +'-'+city] = y.func.loadXml(category.file +'-'+city+'.xml');
+							}
 						}
 					}
 				},
@@ -415,9 +423,16 @@
 					filterText = $.trim(y.obj.$filterText.val()), end, found = false;
 					y.func.loadData(category,y.vr.selectedCity);
 					//if (void 0 != category.data) {
-					if (void 0 != category.xmldata[category.file+'-'+y.vr.selectedCity]) {
-						row = category.xmldata[category.file+'-'+y.vr.selectedCity].getElementsByTagName('Row');
-						ln = row.length;
+					if(category.citysearch == 3){
+						if (void 0 != category.xmldata[category.file]) {
+							row = category.xmldata[category.file].getElementsByTagName('Row');
+							ln = row.length;
+						}
+					}else{
+						if (void 0 != category.xmldata[category.file+'-'+y.vr.selectedCity]) {
+							row = category.xmldata[category.file+'-'+y.vr.selectedCity].getElementsByTagName('Row');
+							ln = row.length;
+						}
 					}
 					if ('' != y.vr.selectedCity || '' != filterText) {
 						/*if ('' != y.vr.selectedCity && '0' != category.citysearch) {

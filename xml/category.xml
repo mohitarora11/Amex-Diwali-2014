@@ -44,7 +44,13 @@
 		<partner name="Fame" img="hp.jpg" href="javascript:void(0)" />
 		<partner name="Satyam" img="hp.jpg" href="javascript:void(0)" />
 	</category>
-	
+	<category name="Online" file="xml/data/Online" icon="online" citysearch="3">
+		<partner name="PVR" img="hp.jpg" href="javascript:void(0)" />
+		<partner name="BIG Cinemas" img="hp.jpg" href="javascript:void(0)" />
+		<partner name="Inox" img="hp.jpg" href="javascript:void(0)" />
+		<partner name="Fame" img="hp.jpg" href="javascript:void(0)" />
+		<partner name="Satyam" img="hp.jpg" href="javascript:void(0)" />
+	</category>
 	
 	<!--<category name="Telephone &amp; Internet" file="xml/data/TelephoneInternet.xml" icon="communication" citysearch="2">
 		<partner name="Airtel" img="samsung.jpg" href="javascript:void(0)" />
