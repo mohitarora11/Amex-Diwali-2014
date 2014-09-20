@@ -693,7 +693,7 @@
 					if (void 0 == isDisable) {
 						y.func.filterData('prev');
 					}
-					$('html, body').animate({scrollTop:100}, '500');
+					$('html, body').animate({scrollTop:$('.data-filter').offset().top}, '500');
 				},
 				nextDataListing: function (e, me) {
 					e.preventDefault();
@@ -701,7 +701,7 @@
 					if (void 0 == isDisable) {
 						y.func.filterData('next');
 					}
-					$('html, body').animate({scrollTop:100}, '500');
+					$('html, body').animate({scrollTop:$('.data-filter').offset().top}, '500');
 				},
 				addFav: function (e, me) {
 					e.preventDefault();
