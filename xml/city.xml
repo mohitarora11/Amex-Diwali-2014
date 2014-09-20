@@ -24,7 +24,7 @@
     <Cell ss:StyleID="s16"><Data ss:Type="String">Mumbai</Data></Cell>
    </Row>
    <Row>
-    <Cell ss:StyleID="s16"><Data ss:Type="String">OtherCities</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Other Cities</Data></Cell>
    </Row>
    
   </Table>

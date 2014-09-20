@@ -310,7 +310,7 @@
 					});
 					$('<option/>').val('').text('Choose your City').appendTo(y.obj.$cityTopFilter);
 					for (var i = 0, ln = y.dt.city.length; i < ln; i++) {
-						$('<option/>').val(y.dt.city[i].toLowerCase()).text(y.dt.city[i]).appendTo(y.obj.$cityTopFilter);
+						$('<option/>').val(y.dt.city[i].toLowerCase().replace(' ','')).text(y.dt.city[i]).appendTo(y.obj.$cityTopFilter);
 					}
 					y.obj.$cityTopFilter.appendTo(y.obj.$city.children('div.filter'));
 					y.obj.$cityTopDisplay = y.obj.$city.children('div.display');
@@ -326,7 +326,7 @@
 					});
 					$('<option/>').val('').text('Choose your City').appendTo(y.obj.$cityDialogSelect);
 					for (var i = 0, ln = y.dt.city.length; i < ln; i++) {
-						$('<option/>').val(y.dt.city[i].toLowerCase()).text(y.dt.city[i]).appendTo(y.obj.$cityDialogSelect);
+						$('<option/>').val(y.dt.city[i].toLowerCase().replace(' ','')).text(y.dt.city[i]).appendTo(y.obj.$cityDialogSelect);
 					}
 					y.obj.$cityDialogSelect.prependTo(y.obj.$cityDialogForm);
 				},
@@ -337,11 +337,11 @@
 					});
 					$('<option/>').val('').text('City').appendTo($select);
 					for (var i = 0, ln = y.dt.city.length; i < ln; i++) {
-						$('<option/>').val(y.dt.city[i].toLowerCase()).text(y.dt.city[i]).appendTo($select);
+						$('<option/>').val(y.dt.city[i].toLowerCase().replace(' ','')).text(y.dt.city[i]).appendTo($select);
 					}
 					y.obj.$filterCity = $select.appendTo(y.obj.$filterCity);
 					if (void 0 != y.vr.selectedCity) {
-						y.obj.$filterCity.val(y.vr.selectedCity.toLowerCase()).change();
+						y.obj.$filterCity.val(y.vr.selectedCity.toLowerCase().replace(' ','')).change();
 					}
 				},
 				createCategotyFilter: function() {
@@ -614,7 +614,7 @@
 				},
 				settitle: function(me){
 					
-					$('title').text('American Express Monthly Blockbuster Offer - ' + me.value);
+					$('title').text('American Express Festive Offer - ' + me.value);
 				}
 			},
 			evnt: {
