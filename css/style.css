@@ -256,7 +256,13 @@ border:none;
 .ulfooterlinks li{width:100%;float:left; text-align:center;}
 ul.pager  li{border-bottom:none !important;margin-right:10px}
 #search_form input[type=text]{padding:9px;float:left;width:80%}
-.terms ul li{list-style: circle;line-height:18px;margin:8px 0}
+.terms{padding:0px 5px}
+.terms ul li,.terms ol li {
+    line-height: 18px;
+    list-style: disc outside none;
+    margin: 8px 0 8px 20px;
+}
+.terms ol li{list-style: decimal outside none;}
 ul.pager li a.disabled{display:none}
 
 .col-sm-5{*width:40% !important}

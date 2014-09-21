@@ -39,7 +39,7 @@
 		var y = {
 			version: '1.0',
 			author: 'Mohit',
-			website: 'www.monthly-blockbusters.com',
+			website: 'American Express Festive Offer',
 			purpose: 'General Search',
 			opt: $.extend({
 				end: 0,
@@ -232,7 +232,8 @@
 							name: category[i].getAttribute('name'),
 							citysearch: category[i].getAttribute('citysearch'),
 							data: null,
-							xmldata:[]
+							xmldata:[],
+							subpoint:category[i].getAttribute('subpoint')
 						});
 						pArr = [];
 						partner = category[i].getElementsByTagName('partner');
@@ -282,7 +283,7 @@
 					for (var i = 0, ln = y.dt.category.length; i < ln; i++) {
 						$li = $('<li/>');
 						text = y.dt.category[i].name;
-						$a = $('<a/>').data('i',i).attr({href: '#', name: text}).addClass(y.dt.category[i].icon).html('<span></span>'+text).appendTo($li);
+						$a = $('<a/>').data('i',i).attr({href: '#', name: text}).addClass(y.dt.category[i].icon).html('<span></span>'+text+'<br/>'+y.dt.category[i].subpoint).appendTo($li);
 						y.obj.$catA.push($a[0]);
 						$li.appendTo($ul);
 					}

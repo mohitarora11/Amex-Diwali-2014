@@ -1,10 +1,12 @@
 <?xml version="1.0"?>
 <?mso-application progid="Excel.Sheet"?>
-<Workbook>
- 
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40"> 
  <Worksheet ss:Name="Apparels &amp; Accessories">
-  <Table>
-   
+  <Table>   
    <Row>
     <Cell><Data>WILLS LIFESTYLE</Data></Cell>
     <Cell><Data>WILLS LIFESTYLE STORE,SHOP NO=G-24, INORBIT MALL(INDIA)PVT LTD,PLOT#39/1,SEC-30-A,VASHI, 400705</Data></Cell>
