@@ -264,7 +264,8 @@ ul.pager  li{border-bottom:none !important;margin-right:10px}
 }
 .terms ol li{list-style: decimal outside none;}
 ul.pager li a.disabled{display:none}
-
+.navbar-nav > li > em{color:#2e1b0b;margin-bottom:15px;display:block}
+.navbar-nav > li > a{padding-bottom:0px}
 .col-sm-5{*width:40% !important}
 #stickyFooter {
      position: fixed;
