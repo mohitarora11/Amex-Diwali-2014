@@ -294,3 +294,5 @@ ul.pager li a.disabled{display:none}
     margin: 10px 0 !important;
     padding: 0;
     width: 100%;
+}
+.category-div .navbar-nav{display:none}

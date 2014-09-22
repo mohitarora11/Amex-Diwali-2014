@@ -207,17 +207,19 @@
 				loadData: function (category,city) {
 					//category.file = category.file +'-'+city+'.xml';
 					
-					if (category.citysearch == 3) {
-						if (void 0 == category.xmldata[category.file]) {
-							category.xmldata[category.file] = y.func.loadXml(category.file+'.xml');
-						}
-					
-					}else{
-						if (void 0 == category.xmldata[category.file +'-'+city]) {
-							//category.data = y.func.loadXml(category.file);
-							if (void 0 != city){
-								//category.data = y.func.loadXml(category.file +'-'+city+'.xml');
-								category.xmldata[category.file +'-'+city] = y.func.loadXml(category.file +'-'+city+'.xml');
+					if(city!=""){
+						if (category.citysearch == 3) {
+							if (void 0 == category.xmldata[category.file]) {
+								category.xmldata[category.file] = y.func.loadXml(category.file+'.xml');
+							}
+						
+						}else{
+							if (void 0 == category.xmldata[category.file +'-'+city]) {
+								//category.data = y.func.loadXml(category.file);
+								if (void 0 != city){
+									//category.data = y.func.loadXml(category.file +'-'+city+'.xml');
+									category.xmldata[category.file +'-'+city] = y.func.loadXml(category.file +'-'+city+'.xml');
+								}
 							}
 						}
 					}
