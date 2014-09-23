@@ -351,7 +351,7 @@
 				},
 				createCategotyFilter: function() {
 					var $select, $option;
-					$select = $('<select/>').addClass('a-filter').change(function() {
+					$select = $('<select/>').addClass('a-filter categ-filter').change(function() {
 						$('.input-filter').val('');
 						y.evnt.filterCategory(this);
 						y.func.settitle(this);
@@ -359,7 +359,7 @@
 					//$('<option/>').val('').text('Category').appendTo($select);
 					for (var i = 0, ln = y.dt.category.length; i < ln; i++) {
 						var text = y.dt.category[i].name;
-						$('<option/>').val(text).text(text).appendTo($select);
+						$('<option/>').val(text).text(text+' '+y.dt.category[i].subpoint).appendTo($select);
 					}
 					y.obj.$filterCategory = $select.appendTo(y.obj.$filterCategory);
 				},

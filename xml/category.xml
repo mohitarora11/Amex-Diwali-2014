@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <categories>
-	<category name="Apparels &amp; Accessories" subpoint="(2 points per Rs.100)" file="xml/data/ApparelsAndAccessories" icon="supermarket" citysearch="1">
+	<category name="Apparels &amp; Accessories" subpoint="(2X Membership Rewards)" file="xml/data/ApparelsAndAccessories" icon="supermarket" citysearch="1">
 		<partner name="Big Bazaar" img="p_logo1.jpg" href="javascript:void(0)" />
 		<partner name="More" img="p_logo2.jpg" href="javascript:void(0)" />
 		<partner name="KB's FAIR PRICE" img="p_logo1.jpg" href="javascript:void(0)" />
@@ -13,7 +13,7 @@
 		<partner name="Food Hall" img="p_logo1.jpg" href="javascript:void(0)" />
 	</category>
 	
-	<category name="Home, Kitchen &amp; Furnishings" subpoint="(2 points per Rs.100)" file="xml/data/HomeKitchenandFurnishing" icon="dining" citysearch="2">
+	<category name="Home, Kitchen &amp; Furnishings" subpoint="(2X Membership Rewards)" file="xml/data/HomeKitchenandFurnishing" icon="dining" citysearch="2">
 		<partner name="CAFE COFEE DAY" img="barbeque.jpg" href="javascript:void(0)" />
 		<partner name="DOMINOS" img="hp.jpg" href="javascript:void(0)" />
 		<partner name="KFC" img="samsung.jpg" href="javascript:void(0)" />
@@ -27,24 +27,31 @@
 		<partner name="MAINLAND CHINA" img="samsung.jpg" href="javascript:void(0)" />
 		<partner name="BARBEQUE NATION" img="samsung.jpg" href="javascript:void(0)" />
 	</category>
-	<category name="Departmental Stores" subpoint="(2 points per Rs.100)" file="xml/data/DepartmentalStores" icon="fuel" citysearch="1">
+	<category name="Departmental Stores" subpoint="(2X Membership Rewards)" file="xml/data/DepartmentalStores" icon="fuel" citysearch="1">
 		<partner name="HPCL" img="hp.jpg" href="javascript:void(0)" />
 		<partner name="IOCL" img="hp.jpg" href="javascript:void(0)" />
 		<partner name="BPCL" img="hp.jpg" href="javascript:void(0)" />
 	</category>
-	<category name="Electronics" file="xml/data/Electronics" subpoint="(2 points per Rs.100)" icon="entertainment" citysearch="1">
+	<category name="Electronics" file="xml/data/Electronics" subpoint="(2X Membership Rewards)" icon="entertainment" citysearch="1">
 		<partner name="HPCL" img="hp.jpg" href="javascript:void(0)" />
 		<partner name="IOCL" img="hp.jpg" href="javascript:void(0)" />
 		<partner name="BPCL" img="hp.jpg" href="javascript:void(0)" />
 	</category>
-	<category name="Others" file="xml/data/Others" subpoint="(2 points per Rs.100)" icon="communication" citysearch="2">
+	<category name="Others" file="xml/data/Others" subpoint="(2X Membership Rewards)" icon="communication" citysearch="2">
 		<partner name="PVR" img="hp.jpg" href="javascript:void(0)" />
 		<partner name="BIG Cinemas" img="hp.jpg" href="javascript:void(0)" />
 		<partner name="Inox" img="hp.jpg" href="javascript:void(0)" />
 		<partner name="Fame" img="hp.jpg" href="javascript:void(0)" />
 		<partner name="Satyam" img="hp.jpg" href="javascript:void(0)" />
 	</category>
-	<category name="Online" file="xml/data/Online" subpoint="(3 points per Rs.100)" icon="online" citysearch="3">
+	<category name="Online" file="xml/data/Online" subpoint="(3X Membership Rewards)" icon="online" citysearch="3">
+		<partner name="PVR" img="hp.jpg" href="javascript:void(0)" />
+		<partner name="BIG Cinemas" img="hp.jpg" href="javascript:void(0)" />
+		<partner name="Inox" img="hp.jpg" href="javascript:void(0)" />
+		<partner name="Fame" img="hp.jpg" href="javascript:void(0)" />
+		<partner name="Satyam" img="hp.jpg" href="javascript:void(0)" />
+	</category>
+	<category name="Amazon.in" file="xml/data/Amazon" subpoint="(5X Membership Rewards)" icon="online" citysearch="3">
 		<partner name="PVR" img="hp.jpg" href="javascript:void(0)" />
 		<partner name="BIG Cinemas" img="hp.jpg" href="javascript:void(0)" />
 		<partner name="Inox" img="hp.jpg" href="javascript:void(0)" />
