@@ -359,7 +359,7 @@
 					//$('<option/>').val('').text('Category').appendTo($select);
 					for (var i = 0, ln = y.dt.category.length; i < ln; i++) {
 						var text = y.dt.category[i].name;
-						$('<option/>').val(text).text(text+' '+y.dt.category[i].subpoint).appendTo($select);
+						$('<option/>').val(text).text(y.dt.category[i].subpoint+' '+text).appendTo($select);
 					}
 					y.obj.$filterCategory = $select.appendTo(y.obj.$filterCategory);
 				},
