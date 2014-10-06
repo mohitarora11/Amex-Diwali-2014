@@ -10,5 +10,5 @@ $(function(){
 		}
 		setTimeout(changebanner,6000)
 	}
-	setTimeout(changebanner,6000)
+	//setTimeout(changebanner,6000)
 });
