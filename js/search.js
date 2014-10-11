@@ -12,7 +12,7 @@ $(function(){
 		}else if($('.basetop').hasClass('basetop4')){		
 			$('.basetop').removeClass('basetop4').addClass('basetop0').find('ul').show();
 		}else if($('.basetop').hasClass('basetop0')){		
-			$('.basetop').removeClass('basetop0').addClass('basetop1').find('ul').hide();
+			$('.basetop').removeClass('basetop0').addClass('basetop2').find('ul').hide();
 		}		
 		/*
 		obj = obj +1;

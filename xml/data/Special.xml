@@ -9,10 +9,21 @@
  <Worksheet ss:Name="Online 3X">
   <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1822" x:FullColumns="1"
    x:FullRows="1" ss:DefaultRowHeight="15">
-   
+   <Row>
+    <Cell><Data>Flipkart.com</Data></Cell>
+	<Cell><Data>10% Cashback + 5 Extra Membership Rewards Points Valid till 16th October</Data></Cell>	
+   </Row>   
+   <Row>
+    <Cell><Data>Future Group</Data></Cell>
+	<Cell><Data>5% Cashback + 2 Extra Membership Rewards Points Valid till 12th October</Data></Cell>	
+   </Row>
    
    <Row>
-    <Cell><Data>http://snapdeal.com</Data></Cell>
+    <Cell><Data>The Mobile Store</Data></Cell>
+	<Cell><Data>7.5% Cashback + 2 Extra Membership Rewards Points Valid till 24th October</Data></Cell>	
+   </Row>
+   <Row>
+    <Cell><Data>Snapdeal.com</Data></Cell>
 	<Cell><Data>Valid till: 10th Oct'14</Data></Cell>
    </Row>
      </Table>
