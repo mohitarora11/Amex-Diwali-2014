@@ -176,13 +176,38 @@ header form { margin:10px; color:#101010; font:normal 15px "Century Gothic" ;}
 	
 	}
 
+	.ui-dialog{width:450px !important;}
+.ui-dialog-titlebar{background:none;border:none;border-bottom:1px solid #666;border-radius:0px;}
+.ui-dialog-title{
+font-family: "Century Gothic" ;
+font-size: 18px;
+}
+.ui-state-default .ui-icon {background:none;}
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default {background:none;border:none;}
+
+#cities {
+font-family: "Century Gothic" ;
+padding: 4px;
+width: 245px;
+float: left;
+height: 37px;
+color: #000;
+
+}
+#city_btn,.delbtn{
+color:#fff;
+margin:0 0 0 10px;
+background:#ed1c24; padding:8px; border-radius:3px;
+border:none;
+}
 
 @media handheld, only screen and (max-width: 800px) { .search input[type="text"] { width:76%;}
 .search strong { font: bold 13px "Century Gothic" ;}
 .text { margin:50px 0 0 0;}
 .baseshothome { height:950px;}
 .baseshot { height:950px;}
-
+.basetop { padding:0; background:#fffdf4;height:200px !important}
+.basetop ul { width:100%;display:block !important}
 }
 
 	@media handheld, only screen and (max-width: 640px) {
@@ -197,11 +222,12 @@ header form { margin:10px; color:#101010; font:normal 15px "Century Gothic" ;}
 	.baseshothome { height:1464px;}
 .baseshot { height:1464px;} 
 	.offer1 {  height:135px;}
-	.basetop { padding:0; background:#fffdf4
-	;}
+	.basetop { padding:0; background:#fffdf4;height:320px !important}
 	
-	.basetop ul { width:100%;}
+	.basetop ul { width:100%;display:block !important}
 	.basetop ul li { border-right:none; padding:0;}
+	#cities{width:180px !important}
+	.ui-dialog{width:300px !important}
 	
 	}
 	
@@ -228,30 +254,7 @@ header form { margin:10px; color:#101010; font:normal 15px "Century Gothic" ;}
   width:100%;
   z-index:100;
 }
-.ui-dialog{width:450px !important;}
-.ui-dialog-titlebar{background:none;border:none;border-bottom:1px solid #666;border-radius:0px;}
-.ui-dialog-title{
-font-family: "Century Gothic" ;
-font-size: 18px;
-}
-.ui-state-default .ui-icon {background:none;}
-.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default {background:none;border:none;}
 
-#cities {
-font-family: "Century Gothic" ;
-padding: 4px;
-width: 245px;
-float: left;
-height: 37px;
-color: #000;
-
-}
-#city_btn,.delbtn{
-color:#fff;
-margin:0 0 0 10px;
-background:#ed1c24; padding:8px; border-radius:3px;
-border:none;
-}
 .delbtn{padding:2px 4px}
 .ui-widget-overlay{background:none}
 
