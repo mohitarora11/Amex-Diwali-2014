@@ -12,7 +12,7 @@
 				filterData: '.filter-data',
 				featuredPartners: '.featured-partners',
 				cityXml: 'xml/city.xml',
-				categoryXml: 'xml/category.xml',
+				categoryXml: 'xml/category.xml?v=1',
 				total: 9,
 				defaultCity: 'Delhi',
 				ignoreCity: 'Please Visit',

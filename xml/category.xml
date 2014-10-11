@@ -51,7 +51,7 @@
 		<partner name="Fame" img="hp.jpg" href="javascript:void(0)" />
 		<partner name="Satyam" img="hp.jpg" href="javascript:void(0)" />
 	</category>
-	<category name="Snapdeal.com" file="xml/data/Snapdeal" subpoint="5 Extra Membership Rewards:" icon="online" citysearch="3">
+	<category name="Special Cashback Offers" file="xml/data/Snapdeal" subpoint="" icon="online" citysearch="3">
 		<partner name="PVR" img="hp.jpg" href="javascript:void(0)" />
 		<partner name="BIG Cinemas" img="hp.jpg" href="javascript:void(0)" />
 		<partner name="Inox" img="hp.jpg" href="javascript:void(0)" />
